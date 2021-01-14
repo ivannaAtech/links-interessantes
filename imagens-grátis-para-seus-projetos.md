@@ -2,126 +2,126 @@
 
 **Verifique os direitos autorais. Embora a maioria dos sites de ilustração gratuita seja livre de direitos autorais, é melhor verificar novamente.**
 
-listed by @ahmed_sulajman on https://twitter.com/ahmed_sulajman/status/1206670211862188033?s=20
+    listed by @ahmed_sulajman on https://twitter.com/ahmed_sulajman/status/1206670211862188033?s=20
 
-    Open Doodles https://opendoodles.com
+Open Doodles https://opendoodles.com
 
-    Humaaans https://humaaans.com
+Humaaans https://humaaans.com
 
-    unDraw https://undraw.co
+unDraw https://undraw.co
 
-    LukaszAdam https://lukaszadam.com/illustrations
+LukaszAdam https://lukaszadam.com/illustrations
 
-    Ouch https://icons8.com/ouch
+Ouch https://icons8.com/ouch
 
-    Absurd Design https://absurd.design
+Absurd Design https://absurd.design
 
-    freepik https://freepik.com
+freepik https://freepik.com
 
 ### Lista de onde obter ilustrações vetoriais gratuitas
 
-listed on https://nomadtoolkit.com/remote-working/free-vector-illustrations/
+    listed by https://nomadtoolkit.com/remote-working/free-vector-illustrations/
 
 Aqui estão 41 sites para obter ilustrações vetoriais gratuitas:
 
-    undraw.co
+undraw.co
 
-    humaaans.com
+humaaans.com
 
-    opendoodles.com
+opendoodles.com
 
-    openpeeps.com
+openpeeps.com
 
-    iradesign.io
+iradesign.io
 
-    scribbbles.design
+scribbbles.design
 
-    icons8.com
+icons8.com
 
-    iconscout.com
+iconscout.com
 
-    manypixels.co
+manypixels.co
 
-    woobro.design
+woobro.design
 
-    fresh-folk.com
+fresh-folk.com
 
-    isometriclove.com
+isometriclove.com
 
-    lukaszadam.com
+lukaszadam.com
 
-    illlustrations.co
+illlustrations.co
 
-    isometric.online
+isometric.online
 
-    drawkit.io
+drawkit.io
 
-    absurd.design
+absurd.design
 
-    usamash.com
+usamash.com
 
-    avataaars.com
+avataaars.com
 
-    bottts.com
+bottts.com
 
-    growwwkit.com
+growwwkit.com
 
-    abstrakt.design
+abstrakt.design
 
-    kapwing.com
+kapwing.com
 
-    error404.fun
+error404.fun
 
-    lab.streamlineicons.com
+lab.streamlineicons.com
 
-    control.rocks
+control.rocks
 
-    blackillustrations.com
+blackillustrations.com
 
-    deliciousdesign.store
+deliciousdesign.store
 
-    itg.digital
+itg.digital
 
-    getillustrations.com
+getillustrations.com
 
-    blush.design
+blush.design
 
-    holla.today
+holla.today
 
-    products.ls.graphics
+products.ls.graphics
 
-    sleekbundle.com
+sleekbundle.com
 
-    karthiksrinivas.in
+karthiksrinivas.in
 
-    geeme.now.sh
+geeme.now.sh
 
-    delesign.com
+delesign.com
 
-    freellustrations.com
+freellustrations.com
 
-    freevector.com
+freevector.com
 
-    selfspace.design
+selfspace.design
 
-    storytale.io
+storytale.io
 
 ### +links
 
-    freebiesupply.com/
+freebiesupply.com/
 
-    interfacer.xyz/
+interfacer.xyz/
 
-    iradesign.io/
+iradesign.io/
 
-    www.kaeles.com/post/25freedesignresources
+www.kaeles.com/post/25freedesignresources
 
-    webkul.github.io/vivid/
+webkul.github.io/vivid/
 
-    www.lapa.ninja/blog/free-illustrations-library-for-your-project/
+www.lapa.ninja/blog/free-illustrations-library-for-your-project/
 
-    www.manypixels.co/gallery/
+www.manypixels.co/gallery/
 
-    www.productdesignresources.com/open-source-illustrations
+www.productdesignresources.com/open-source-illustrations
 
-    www.uxlibrary.org/more/free-resources/illustrations
+www.uxlibrary.org/more/free-resources/illustrations
