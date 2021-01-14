@@ -2,7 +2,7 @@
 
 **Verifique os direitos autorais. Embora a maioria dos sites de ilustração gratuita seja livre de direitos autorais, é melhor verificar novamente.**
 
-    listed by @ahmed_sulajman on https://twitter.com/ahmed_sulajman/status/1206670211862188033?s=20
+listed by @ahmed_sulajman on https://twitter.com/ahmed_sulajman/status/1206670211862188033?s=20
 
 Open Doodles https://opendoodles.com
 
@@ -20,7 +20,7 @@ freepik https://freepik.com
 
 ### Lista de onde obter ilustrações vetoriais gratuitas
 
-    listed by https://nomadtoolkit.com/remote-working/free-vector-illustrations/
+listed by https://nomadtoolkit.com/remote-working/free-vector-illustrations/
 
 Aqui estão 41 sites para obter ilustrações vetoriais gratuitas:
 
