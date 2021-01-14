@@ -1,4 +1,4 @@
-Canais sobre ciência e tecnologia
+### Canais sobre ciência e tecnologia
 
 [Fábrica de Noobs](https://www.youtube.com/channel/UCGObNjkNjo1OUPLlm8BTb3A/videos)
 
@@ -20,7 +20,7 @@ Canais sobre ciência e tecnologia
 
 ---
 
-Canais de TI/Programação
+### Canais de TI/Programação
 
 [{ Dicas de Programação }](https://www.youtube.com/c/DicasdeprogramacaoBr/videos)
 
