@@ -28,7 +28,7 @@
 
 [Attekita Dev](https://www.youtube.com/c/AttekitaDev/videos)
 
-[ balta.io](https://www.youtube.com/channel/UCgnACLvM9O5lfm9ZBh_d3cg/videos)
+[balta.io](https://www.youtube.com/channel/UCgnACLvM9O5lfm9ZBh_d3cg/videos)
 
 [Brasil Code](https://www.youtube.com/c/BrasilCode/videos)
 
@@ -40,6 +40,8 @@
 
 [Danki Code](https://www.youtube.com/channel/UCdbMvobipjxi6gdr3L1PBrQ/videos)
 
+[DevFuria](https://www.youtube.com/user/DevFuria/videos)
+
 [DevMedia](https://www.youtube.com/c/DevmediaBrasil/videos)
 
 [Digital Innovation One](https://www.youtube.com/channel/UCMxqhdELkftE8DuBZiwdPfg/videos)
@@ -49,6 +51,8 @@
 [Escola Front-end](https://www.youtube.com/c/EscolaFrontend/videos)
 
 [Fabio Akita](https://www.youtube.com/user/AkitaOnRails/videos)
+
+[Feature Code](https://www.youtube.com/channel/UCN2awY0-rwElaTw_yEnkqOw/videos)
 
 [Filipe Alves](https://www.youtube.com/c/FilipeAlvesdef/videos)
 
@@ -75,6 +79,8 @@
 [Programador BR](https://www.youtube.com/channel/UCrdgeUeCll2QKmqmihIgKBQ/videos)
 
 [Programador Br - Tutoriais](https://www.youtube.com/c/ProgramadorBrTutoriais/videos)
+
+[Rafaella Ballerini](https://www.youtube.com/user/RafaellaBallerini/videos)
 
 [Rocketseat](https://www.youtube.com/channel/UCSfwM5u0Kce6Cce8_S72olg/videos)
 
